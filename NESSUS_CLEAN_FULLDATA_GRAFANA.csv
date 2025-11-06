@@ -1,0 +1,241 @@
+Plugin ID,Risk,Host,Protocol,Port,Name,CVSS v4.0 Base Score,CVSS v3.0 Base Score,CVE
+10107,None,10.1.100.31,tcp,80,HTTP Server Type and Version,,,nan
+10107,None,10.1.100.31,tcp,443,HTTP Server Type and Version,,,nan
+10267,None,10.1.100.31,tcp,22,SSH Server Type and Version Information,,,nan
+10287,None,10.1.100.31,udp,0,Traceroute Information,,,nan
+10863,None,10.1.100.31,tcp,443,SSL Certificate Information,,,nan
+10881,None,10.1.100.31,tcp,22,SSH Protocol Versions Supported,,,nan
+11219,None,10.1.100.31,tcp,22,Nessus SYN scanner,,,nan
+11219,None,10.1.100.31,tcp,80,Nessus SYN scanner,,,nan
+11219,None,10.1.100.31,tcp,443,Nessus SYN scanner,,,nan
+11936,None,10.1.100.31,tcp,0,OS Identification,,,nan
+19506,None,10.1.100.31,tcp,0,Nessus Scan Information,,,nan
+19689,None,10.1.100.31,tcp,443,Embedded Web Server Detection,,,nan
+21643,None,10.1.100.31,tcp,443,SSL Cipher Suites Supported,,,nan
+22964,None,10.1.100.31,tcp,22,Service Detection,,,nan
+22964,None,10.1.100.31,tcp,80,Service Detection,,,nan
+22964,None,10.1.100.31,tcp,443,Service Detection,,,nan
+22964,None,10.1.100.31,tcp,443,Service Detection,,,nan
+24260,None,10.1.100.31,tcp,80,HyperText Transfer Protocol (HTTP) Information,,,nan
+25220,None,10.1.100.31,tcp,0,TCP/IP Timestamps Supported,,,nan
+35716,None,10.1.100.31,tcp,0,Ethernet Card Manufacturer Detection,,,nan
+39520,None,10.1.100.31,tcp,22,Backported Security Patch Detection (SSH),,,nan
+42822,None,10.1.100.31,tcp,443,Strict Transport Security (STS) Detection,,,nan
+43111,None,10.1.100.31,tcp,443,HTTP Methods Allowed (per directory),,,nan
+45555,None,10.1.100.31,udp,623,Alert Standard Format / Remote Management and Control Protocol Detection,,,nan
+45590,None,10.1.100.31,tcp,0,Common Platform Enumeration (CPE),,,nan
+48204,None,10.1.100.31,tcp,80,Apache HTTP Server Version,,,nan
+51185,None,10.1.100.31,tcp,443,Dell Integrated Remote Access Controller (iDRAC) Web Interface Detection,,,nan
+51192,Medium,10.1.100.31,tcp,443,SSL Certificate Cannot Be Trusted,,6.5,nan
+54615,None,10.1.100.31,tcp,0,Device Type,,,nan
+56984,None,10.1.100.31,tcp,443,SSL / TLS Versions Supported,,,nan
+57041,None,10.1.100.31,tcp,443,SSL Perfect Forward Secrecy Cipher Suites Supported,,,nan
+57582,Medium,10.1.100.31,tcp,443,SSL Self-Signed Certificate,,6.5,nan
+66717,None,10.1.100.31,udp,5353,mDNS Detection (Local Network),,,nan
+70544,None,10.1.100.31,tcp,443,SSL Cipher Block Chaining Cipher Suites Supported,,,nan
+70657,None,10.1.100.31,tcp,22,SSH Algorithms and Languages Supported,,,nan
+84821,None,10.1.100.31,tcp,443,TLS ALPN Supported Protocol Enumeration,,,nan
+86420,None,10.1.100.31,tcp,0,Ethernet MAC Addresses,,,nan
+94761,None,10.1.100.31,tcp,443,SSL Root Certification Authority Certificate Information,,,nan
+110723,None,10.1.100.31,tcp,0,Target Credential Status by Authentication Protocol - No Credentials Provided,,,nan
+117886,None,10.1.100.31,tcp,0,OS Security Patch Assessment Not Available,,,nan
+136318,None,10.1.100.31,tcp,443,TLS Version 1.2 Protocol Detection,,,nan
+138330,None,10.1.100.31,tcp,443,TLS Version 1.3 Protocol Detection,,,nan
+156899,None,10.1.100.31,tcp,443,SSL/TLS Recommended Cipher Suites,,,nan
+181418,None,10.1.100.31,tcp,22,OpenSSH Detection,,,nan
+185519,None,10.1.100.31,udp,161,SNMP Server Detection,,,nan
+209654,None,10.1.100.31,tcp,0,OS Fingerprints Detected,,,nan
+213382,None,10.1.100.31,tcp,0,Dell Integrated Remote Access Controller (iDRAC) OS Detection,,,nan
+213383,None,10.1.100.31,tcp,0,Dell Integrated Remote Access Controller (iDRAC) Hardware Detection,,,nan
+10114,Low,10.1.100.33,icmp,0,ICMP Timestamp Request Remote Date Disclosure,,,CVE-1999-0524
+10267,None,10.1.100.33,tcp,22,SSH Server Type and Version Information,,,nan
+10287,None,10.1.100.33,udp,0,Traceroute Information,,,nan
+10881,None,10.1.100.33,tcp,22,SSH Protocol Versions Supported,,,nan
+11219,None,10.1.100.33,tcp,22,Nessus SYN scanner,,,nan
+11219,None,10.1.100.33,tcp,427,Nessus SYN scanner,,,nan
+11219,None,10.1.100.33,tcp,443,Nessus SYN scanner,,,nan
+11936,None,10.1.100.33,tcp,0,OS Identification,,,nan
+19506,None,10.1.100.33,tcp,0,Nessus Scan Information,,,nan
+21643,None,10.1.100.33,tcp,443,SSL Cipher Suites Supported,,,nan
+22964,None,10.1.100.33,tcp,22,Service Detection,,,nan
+22964,None,10.1.100.33,tcp,443,Service Detection,,,nan
+22964,None,10.1.100.33,tcp,443,Service Detection,,,nan
+23777,None,10.1.100.33,tcp,427,SLP Server Detection (TCP),,,nan
+23778,None,10.1.100.33,udp,427,SLP Server Detection (UDP),,,nan
+24260,None,10.1.100.33,tcp,443,HyperText Transfer Protocol (HTTP) Information,,,nan
+35716,None,10.1.100.33,tcp,0,Ethernet Card Manufacturer Detection,,,nan
+39520,None,10.1.100.33,tcp,22,Backported Security Patch Detection (SSH),,,nan
+42822,None,10.1.100.33,tcp,443,Strict Transport Security (STS) Detection,,,nan
+45590,None,10.1.100.33,tcp,0,Common Platform Enumeration (CPE),,,nan
+54615,None,10.1.100.33,tcp,0,Device Type,,,nan
+56984,None,10.1.100.33,tcp,443,SSL / TLS Versions Supported,,,nan
+57041,None,10.1.100.33,tcp,443,SSL Perfect Forward Secrecy Cipher Suites Supported,,,nan
+66334,None,10.1.100.33,tcp,0,Patch Report,,,nan
+70544,None,10.1.100.33,tcp,443,SSL Cipher Block Chaining Cipher Suites Supported,,,nan
+70657,None,10.1.100.33,tcp,22,SSH Algorithms and Languages Supported,,,nan
+86420,None,10.1.100.33,tcp,0,Ethernet MAC Addresses,,,nan
+110723,None,10.1.100.33,tcp,0,Target Credential Status by Authentication Protocol - No Credentials Provided,,,nan
+117886,None,10.1.100.33,tcp,0,OS Security Patch Assessment Not Available,,,nan
+136318,None,10.1.100.33,tcp,443,TLS Version 1.2 Protocol Detection,,,nan
+149334,None,10.1.100.33,tcp,22,SSH Password Authentication Accepted,,,nan
+156899,None,10.1.100.33,tcp,443,SSL/TLS Recommended Cipher Suites,,,nan
+181418,None,10.1.100.33,tcp,22,OpenSSH Detection,,,nan
+187315,Medium,10.1.100.33,tcp,22,SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795),,5.9,CVE-2023-48795
+209654,None,10.1.100.33,tcp,0,OS Fingerprints Detected,,,nan
+10114,Low,10.1.100.34,icmp,0,ICMP Timestamp Request Remote Date Disclosure,,,CVE-1999-0524
+10267,None,10.1.100.34,tcp,22,SSH Server Type and Version Information,,,nan
+10287,None,10.1.100.34,udp,0,Traceroute Information,,,nan
+10863,None,10.1.100.34,tcp,443,SSL Certificate Information,,,nan
+10881,None,10.1.100.34,tcp,22,SSH Protocol Versions Supported,,,nan
+11219,None,10.1.100.34,tcp,22,Nessus SYN scanner,,,nan
+11219,None,10.1.100.34,tcp,427,Nessus SYN scanner,,,nan
+11219,None,10.1.100.34,tcp,443,Nessus SYN scanner,,,nan
+11936,None,10.1.100.34,tcp,0,OS Identification,,,nan
+19506,None,10.1.100.34,tcp,0,Nessus Scan Information,,,nan
+21643,None,10.1.100.34,tcp,443,SSL Cipher Suites Supported,,,nan
+22964,None,10.1.100.34,tcp,22,Service Detection,,,nan
+22964,None,10.1.100.34,tcp,443,Service Detection,,,nan
+22964,None,10.1.100.34,tcp,443,Service Detection,,,nan
+23777,None,10.1.100.34,tcp,427,SLP Server Detection (TCP),,,nan
+23778,None,10.1.100.34,udp,427,SLP Server Detection (UDP),,,nan
+24260,None,10.1.100.34,tcp,443,HyperText Transfer Protocol (HTTP) Information,,,nan
+35716,None,10.1.100.34,tcp,0,Ethernet Card Manufacturer Detection,,,nan
+39520,None,10.1.100.34,tcp,22,Backported Security Patch Detection (SSH),,,nan
+42822,None,10.1.100.34,tcp,443,Strict Transport Security (STS) Detection,,,nan
+45590,None,10.1.100.34,tcp,0,Common Platform Enumeration (CPE),,,nan
+51192,Medium,10.1.100.34,tcp,443,SSL Certificate Cannot Be Trusted,,6.5,nan
+54615,None,10.1.100.34,tcp,0,Device Type,,,nan
+56984,None,10.1.100.34,tcp,443,SSL / TLS Versions Supported,,,nan
+57041,None,10.1.100.34,tcp,443,SSL Perfect Forward Secrecy Cipher Suites Supported,,,nan
+57582,Medium,10.1.100.34,tcp,443,SSL Self-Signed Certificate,,6.5,nan
+66334,None,10.1.100.34,tcp,0,Patch Report,,,nan
+70544,None,10.1.100.34,tcp,443,SSL Cipher Block Chaining Cipher Suites Supported,,,nan
+70657,None,10.1.100.34,tcp,22,SSH Algorithms and Languages Supported,,,nan
+86420,None,10.1.100.34,tcp,0,Ethernet MAC Addresses,,,nan
+110723,None,10.1.100.34,tcp,0,Target Credential Status by Authentication Protocol - No Credentials Provided,,,nan
+117886,None,10.1.100.34,tcp,0,OS Security Patch Assessment Not Available,,,nan
+136318,None,10.1.100.34,tcp,443,TLS Version 1.2 Protocol Detection,,,nan
+149334,None,10.1.100.34,tcp,22,SSH Password Authentication Accepted,,,nan
+156899,None,10.1.100.34,tcp,443,SSL/TLS Recommended Cipher Suites,,,nan
+181418,None,10.1.100.34,tcp,22,OpenSSH Detection,,,nan
+187315,Medium,10.1.100.34,tcp,22,SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795),,5.9,CVE-2023-48795
+209654,None,10.1.100.34,tcp,0,OS Fingerprints Detected,,,nan
+10107,None,10.1.100.225,tcp,80,HTTP Server Type and Version,,,nan
+10107,None,10.1.100.225,tcp,443,HTTP Server Type and Version,,,nan
+10107,None,10.1.100.225,tcp,5900,HTTP Server Type and Version,,,nan
+10267,None,10.1.100.225,tcp,22,SSH Server Type and Version Information,,,nan
+10287,None,10.1.100.225,udp,0,Traceroute Information,,,nan
+10386,None,10.1.100.225,tcp,80,Web Server No 404 Error Code Check,,,nan
+10863,None,10.1.100.225,tcp,443,SSL Certificate Information,,,nan
+10863,None,10.1.100.225,tcp,5900,SSL Certificate Information,,,nan
+10881,None,10.1.100.225,tcp,22,SSH Protocol Versions Supported,,,nan
+11219,None,10.1.100.225,tcp,22,Nessus SYN scanner,,,nan
+11219,None,10.1.100.225,tcp,80,Nessus SYN scanner,,,nan
+11219,None,10.1.100.225,tcp,443,Nessus SYN scanner,,,nan
+11219,None,10.1.100.225,tcp,5900,Nessus SYN scanner,,,nan
+11936,None,10.1.100.225,tcp,0,OS Identification,,,nan
+19506,None,10.1.100.225,tcp,0,Nessus Scan Information,,,nan
+19689,None,10.1.100.225,tcp,443,Embedded Web Server Detection,,,nan
+21643,None,10.1.100.225,tcp,443,SSL Cipher Suites Supported,,,nan
+21643,None,10.1.100.225,tcp,5900,SSL Cipher Suites Supported,,,nan
+22964,None,10.1.100.225,tcp,22,Service Detection,,,nan
+22964,None,10.1.100.225,tcp,80,Service Detection,,,nan
+22964,None,10.1.100.225,tcp,443,Service Detection,,,nan
+22964,None,10.1.100.225,tcp,443,Service Detection,,,nan
+22964,None,10.1.100.225,tcp,5900,Service Detection,,,nan
+22964,None,10.1.100.225,tcp,5900,Service Detection,,,nan
+24260,None,10.1.100.225,tcp,80,HyperText Transfer Protocol (HTTP) Information,,,nan
+24260,None,10.1.100.225,tcp,5900,HyperText Transfer Protocol (HTTP) Information,,,nan
+25220,None,10.1.100.225,tcp,0,TCP/IP Timestamps Supported,,,nan
+35716,None,10.1.100.225,tcp,0,Ethernet Card Manufacturer Detection,,,nan
+39520,None,10.1.100.225,tcp,22,Backported Security Patch Detection (SSH),,,nan
+42822,None,10.1.100.225,tcp,443,Strict Transport Security (STS) Detection,,,nan
+42822,None,10.1.100.225,tcp,5900,Strict Transport Security (STS) Detection,,,nan
+45555,None,10.1.100.225,udp,623,Alert Standard Format / Remote Management and Control Protocol Detection,,,nan
+45590,None,10.1.100.225,tcp,0,Common Platform Enumeration (CPE),,,nan
+48204,None,10.1.100.225,tcp,80,Apache HTTP Server Version,,,nan
+51185,None,10.1.100.225,tcp,443,Dell Integrated Remote Access Controller (iDRAC) Web Interface Detection,,,nan
+51192,Medium,10.1.100.225,tcp,443,SSL Certificate Cannot Be Trusted,,6.5,nan
+51192,Medium,10.1.100.225,tcp,5900,SSL Certificate Cannot Be Trusted,,6.5,nan
+54615,None,10.1.100.225,tcp,0,Device Type,,,nan
+56984,None,10.1.100.225,tcp,443,SSL / TLS Versions Supported,,,nan
+56984,None,10.1.100.225,tcp,5900,SSL / TLS Versions Supported,,,nan
+57041,None,10.1.100.225,tcp,443,SSL Perfect Forward Secrecy Cipher Suites Supported,,,nan
+57041,None,10.1.100.225,tcp,5900,SSL Perfect Forward Secrecy Cipher Suites Supported,,,nan
+57582,Medium,10.1.100.225,tcp,443,SSL Self-Signed Certificate,,6.5,nan
+57582,Medium,10.1.100.225,tcp,5900,SSL Self-Signed Certificate,,6.5,nan
+66334,None,10.1.100.225,tcp,0,Patch Report,,,nan
+66717,None,10.1.100.225,udp,5353,mDNS Detection (Local Network),,,nan
+70544,None,10.1.100.225,tcp,443,SSL Cipher Block Chaining Cipher Suites Supported,,,nan
+70544,None,10.1.100.225,tcp,5900,SSL Cipher Block Chaining Cipher Suites Supported,,,nan
+70657,None,10.1.100.225,tcp,22,SSH Algorithms and Languages Supported,,,nan
+84821,None,10.1.100.225,tcp,443,TLS ALPN Supported Protocol Enumeration,,,nan
+86420,None,10.1.100.225,tcp,0,Ethernet MAC Addresses,,,nan
+94761,None,10.1.100.225,tcp,443,SSL Root Certification Authority Certificate Information,,,nan
+94761,None,10.1.100.225,tcp,5900,SSL Root Certification Authority Certificate Information,,,nan
+110723,None,10.1.100.225,tcp,0,Target Credential Status by Authentication Protocol - No Credentials Provided,,,nan
+117886,None,10.1.100.225,tcp,0,OS Security Patch Assessment Not Available,,,nan
+121010,None,10.1.100.225,tcp,443,TLS Version 1.1 Protocol Detection,,,nan
+121010,None,10.1.100.225,tcp,5900,TLS Version 1.1 Protocol Detection,,,nan
+136318,None,10.1.100.225,tcp,443,TLS Version 1.2 Protocol Detection,,,nan
+136318,None,10.1.100.225,tcp,5900,TLS Version 1.2 Protocol Detection,,,nan
+148955,Low,10.1.100.225,tcp,443,Dell iDRAC XSS (DSA-2021-073),,4.8,CVE-2021-21542
+153588,None,10.1.100.225,tcp,22,SSH SHA-1 HMAC Algorithms Enabled,,,nan
+156899,None,10.1.100.225,tcp,443,SSL/TLS Recommended Cipher Suites,,,nan
+156899,None,10.1.100.225,tcp,5900,SSL/TLS Recommended Cipher Suites,,,nan
+157288,Medium,10.1.100.225,tcp,443,TLS Version 1.1 Deprecated Protocol,,6.5,nan
+157288,Medium,10.1.100.225,tcp,5900,TLS Version 1.1 Deprecated Protocol,,6.5,nan
+161798,Medium,10.1.100.225,tcp,443,Dell EMC iDRAC8 < 2.80.80.80 / Dell EMC iDRAC9 < 4.40.40.00 (DSA-2021-177),,7.2,CVE-2021-36301
+161799,Medium,10.1.100.225,tcp,443,Dell EMC iDRAC9 4.40.x < 4.40.29.00 (DSA-2021-177),,8.1,CVE-2021-36299
+161800,Medium,10.1.100.225,tcp,443,Dell EMC iDRAC9 < 5.00.00.00 (DSA-2021-177),,8.2,CVE-2021-36300
+162428,Medium,10.1.100.225,tcp,443,Dell EMC iDRAC8 < 2.83.83.83 / Dell EMC iDRAC9 < 5.10.30.00 (DSA-2022-154),,7.5,CVE-2022-0778
+167509,Medium,10.1.100.225,tcp,443,Dell EMC iDRAC9 < 6.00.30.00 (DSA-2022-265),,4.9,CVE-2022-34435
+181418,None,10.1.100.225,tcp,22,OpenSSH Detection,,,nan
+182918,High,10.1.100.225,tcp,443,Dell EMC iDRAC9 4.40.00.00 < 4.40.10.00 (DSA-2021-082),,10.0,CVE-2021-21538
+185519,None,10.1.100.225,udp,161,SNMP Server Detection,,,nan
+187315,Medium,10.1.100.225,tcp,22,SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795),,5.9,CVE-2023-48795
+202259,Critical,10.1.100.225,tcp,443,Dell EMC iDRAC9 < 7.00.00.172 / 7.10.00.00 < 7.10.50.00 (DSA-2024-099),,9.8,CVE-2024-25943
+209654,None,10.1.100.225,tcp,0,OS Fingerprints Detected,,,nan
+213382,None,10.1.100.225,tcp,0,Dell Integrated Remote Access Controller (iDRAC) OS Detection,,,nan
+213383,None,10.1.100.225,tcp,0,Dell Integrated Remote Access Controller (iDRAC) Hardware Detection,,,nan
+10267,None,10.1.101.2,tcp,22,SSH Server Type and Version Information,,,nan
+10287,None,10.1.101.2,udp,0,Traceroute Information,,,nan
+10863,None,10.1.101.2,tcp,443,SSL Certificate Information,,,nan
+11153,None,10.1.101.2,tcp,22,Service Detection (HELP Request),,,nan
+11219,None,10.1.101.2,tcp,22,Nessus SYN scanner,,,nan
+11219,None,10.1.101.2,tcp,80,Nessus SYN scanner,,,nan
+11219,None,10.1.101.2,tcp,443,Nessus SYN scanner,,,nan
+11219,None,10.1.101.2,tcp,8008,Nessus SYN scanner,,,nan
+11219,None,10.1.101.2,tcp,17990,Nessus SYN scanner,,,nan
+11936,None,10.1.101.2,tcp,0,OS Identification,,,nan
+19506,None,10.1.101.2,tcp,0,Nessus Scan Information,,,nan
+19689,None,10.1.101.2,tcp,80,Embedded Web Server Detection,,,nan
+19689,None,10.1.101.2,tcp,443,Embedded Web Server Detection,,,nan
+20285,None,10.1.101.2,tcp,0,HP Integrated Lights-Out (iLO) Detection,,,nan
+21643,None,10.1.101.2,tcp,443,SSL Cipher Suites Supported,,,nan
+22964,None,10.1.101.2,tcp,80,Service Detection,,,nan
+22964,None,10.1.101.2,tcp,443,Service Detection,,,nan
+22964,None,10.1.101.2,tcp,443,Service Detection,,,nan
+25220,None,10.1.101.2,tcp,0,TCP/IP Timestamps Supported,,,nan
+45590,None,10.1.101.2,tcp,0,Common Platform Enumeration (CPE),,,nan
+50845,None,10.1.101.2,tcp,443,OpenSSL Detection,,,nan
+51192,Medium,10.1.101.2,tcp,443,SSL Certificate Cannot Be Trusted,,6.5,nan
+54615,None,10.1.101.2,tcp,0,Device Type,,,nan
+56984,None,10.1.101.2,tcp,443,SSL / TLS Versions Supported,,,nan
+57041,None,10.1.101.2,tcp,443,SSL Perfect Forward Secrecy Cipher Suites Supported,,,nan
+70544,None,10.1.101.2,tcp,443,SSL Cipher Block Chaining Cipher Suites Supported,,,nan
+70657,None,10.1.101.2,tcp,22,SSH Algorithms and Languages Supported,,,nan
+70658,Low,10.1.101.2,tcp,22,SSH Server CBC Mode Ciphers Enabled,,3.7,CVE-2008-5161
+104743,Medium,10.1.101.2,tcp,443,TLS Version 1.0 Protocol Detection,,6.5,nan
+110723,None,10.1.101.2,tcp,0,Target Credential Status by Authentication Protocol - No Credentials Provided,,,nan
+117886,None,10.1.101.2,tcp,0,OS Security Patch Assessment Not Available,,,nan
+121010,None,10.1.101.2,tcp,443,TLS Version 1.1 Protocol Detection,,,nan
+136318,None,10.1.101.2,tcp,443,TLS Version 1.2 Protocol Detection,,,nan
+138330,None,10.1.101.2,tcp,443,TLS Version 1.3 Protocol Detection,,,nan
+149334,None,10.1.101.2,tcp,22,SSH Password Authentication Accepted,,,nan
+153588,None,10.1.101.2,tcp,22,SSH SHA-1 HMAC Algorithms Enabled,,,nan
+153953,Low,10.1.101.2,tcp,22,SSH Weak Key Exchange Algorithms Enabled,,3.7,nan
+156899,None,10.1.101.2,tcp,443,SSL/TLS Recommended Cipher Suites,,,nan
+157288,Medium,10.1.101.2,tcp,443,TLS Version 1.1 Deprecated Protocol,,6.5,nan
+185519,None,10.1.101.2,udp,161,SNMP Server Detection,,,nan
+209654,None,10.1.101.2,tcp,0,OS Fingerprints Detected,,,nan
