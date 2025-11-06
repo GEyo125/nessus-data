@@ -1,4 +1,4 @@
-﻿Plugin ID,Risk,Host,Protocol,Port,Name,CVSS v4.0 Base Score,CVSS v3.0 Base Score,CVE
+Plugin ID,Risk,Host,Protocol,Port,Name,CVSS v4.0 Base Score,CVSS v3.0 Base Score,CVE
 10107,None,10.1.100.31,tcp,80,HTTP Server Type and Version,,,
 10107,None,10.1.100.31,tcp,443,HTTP Server Type and Version,,,
 10267,None,10.1.100.31,tcp,22,SSH Server Type and Version Information,,,
